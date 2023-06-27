@@ -1,7 +1,7 @@
 # Assignment 1 :
 
 ## K-Nearest Neighbors (KNN):
-1. Load the dataset 'iris.csv' using Pandas and split it into features (X) and target variable (y). How many features and target classes are there in the dataset? 
+1. Load the dataset 'iris.csv' using Pandas and split it into features (X) and target variable (y). Print how many features and target classes are there in the dataset? 
     (Hint: Use `Pandas` functions)
 2. Explain the concept of the KNN algorithm in your own words.
 3. What is the significance of the parameter 'K' in KNN? How does it affect the algorithm's performance? 
@@ -14,9 +14,9 @@
     (Hint: Consider using `cross-validation` or grid search techniques)
 
 ## Decision Tree:
-1. Load the dataset 'titanic.csv' using Pandas and split it into features (X) and target variable (y). How many features and target classes are there in the dataset? 
+1. Load the dataset 'titanic.csv' using Pandas and split it into features (X) and target variable (y). Print how many features and target classes are there in the dataset? 
     (Hint: Use Pandas functions)
-2. What is the concept of entropy in the context of decision trees? How is it calculated? 
+2. What is the concept of entropy and Information gain in the context of decision trees? How is it calculated? 
     (Hint: Consider the usage of scikit-learn's `DecisionTreeClassifier`)
 3. Split the dataset into training and testing sets using a 70:30 ratio. (Hint: Use scikit-learn's train_test_split)
 4. Train a decision tree classifier on the training data. What is the maximum depth of the tree? 
