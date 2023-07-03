@@ -1,2 +1,5 @@
-# 2k23-repos
-All the repos from 2k23 intern ship
+# Fake News Detection
+
+## Authors
+
+- [@swaubhik](https://www.github.com/swaubhik)
