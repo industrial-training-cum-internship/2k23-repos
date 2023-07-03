@@ -1,4 +1,3 @@
-
 # Project Title
 
 A brief description of what this project does and who it's for
@@ -73,5 +72,3 @@ To run tests, run the following command
 ## License
 
 [MIT](https://github.com/industrial-training-cum-internship/2k23-repos/blob/main/LICENSE)
-
-
